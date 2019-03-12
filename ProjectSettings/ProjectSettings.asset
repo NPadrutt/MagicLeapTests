@@ -662,13 +662,17 @@ PlayerSettings:
     m_ModelFolderPath: 
     m_PortalFolderPath: 
   luminCert:
-    m_CertPath: 
+    m_CertPath: C:/Users/ninop/OneDrive/Dokumente/Schule/HSLU/BDA/Entwicklung/Magic
+      Leap/HSLU/ir_hslu.cert
     m_PrivateKeyPath: 
   luminIsChannelApp: 0
   luminVersion:
     m_VersionCode: 1
     m_VersionName: 
-  luminPrivilege: []
+  luminPrivilege:
+  - PwFoundObjRead
+  - GesturesSubscribe
+  - GesturesConfig
   luminMinimumPlatformAPILevel: 3
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
