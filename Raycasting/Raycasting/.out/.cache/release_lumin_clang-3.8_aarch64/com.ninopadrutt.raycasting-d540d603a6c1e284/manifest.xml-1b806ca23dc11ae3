@@ -1,0 +1,9 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="8bae1f9f-f352-4510-b63d-557f7c2e0ada" ml:package="com.ninopadrutt.raycasting" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="3" ml:sdk_version="1.0" ml:visible_name="Raycasting">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="WorldReconstruction" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="Raycasting">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>

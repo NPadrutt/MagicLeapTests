@@ -1,0 +1,338 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "ed135edf50cb5816790cf0ee3878d641b5029407",
+   "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
+   "size": 5036,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
+  },
+  {
+   "compression": 8,
+   "hash": "4949f6d2b5d2c67afa08dbf68ab5c8c3e49ec525",
+   "pkgpath": "Data/170c02e10c121294486c57133d65b5cc",
+   "size": 50074,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/170c02e10c121294486c57133d65b5cc"
+  },
+  {
+   "compression": 8,
+   "hash": "cd3d81e3d82ad27ad9fff5e01fdaa948d301f3e5",
+   "pkgpath": "Data/1e71f539decd80f4bb2541c46a153223",
+   "size": 50094,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/1e71f539decd80f4bb2541c46a153223"
+  },
+  {
+   "compression": 8,
+   "hash": "b43467e117fcc51ec4da91b1050e665c3b5542c8",
+   "pkgpath": "Data/2b303258409019f428ed17a87cda4ac9",
+   "size": 50342,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/2b303258409019f428ed17a87cda4ac9"
+  },
+  {
+   "compression": 8,
+   "hash": "dbff325bfad543a7260e42d0a4f2403f040152b1",
+   "pkgpath": "Data/479521f96370b384d810a07599e7b084",
+   "size": 50254,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/479521f96370b384d810a07599e7b084"
+  },
+  {
+   "compression": 8,
+   "hash": "2469df024d59ad317a7e76013bc82f408d5efefe",
+   "pkgpath": "Data/51731a8a220e240478717934f6e99543",
+   "size": 49482,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/51731a8a220e240478717934f6e99543"
+  },
+  {
+   "compression": 8,
+   "hash": "efa6b8f8eee29eb940c9f345d15299af3c4563c9",
+   "pkgpath": "Data/63e7f9bd47d71334aa0ffb67cc5bbfb1",
+   "size": 49654,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/63e7f9bd47d71334aa0ffb67cc5bbfb1"
+  },
+  {
+   "compression": 8,
+   "hash": "edef7ddee8b73c5861e9c05cb4969d178222ed12",
+   "pkgpath": "Data/7f93338dc6150ea45b387e442e8102da",
+   "size": 49366,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/7f93338dc6150ea45b387e442e8102da"
+  },
+  {
+   "compression": 8,
+   "hash": "65df50cd3f774b7dba4a1b741a61d0511e750f4b",
+   "pkgpath": "Data/8401b9c91b47d6449a4be596c8138a90",
+   "size": 50466,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/8401b9c91b47d6449a4be596c8138a90"
+  },
+  {
+   "compression": 8,
+   "hash": "4ad51582405d12865acc4cf8619118f8276f80c0",
+   "pkgpath": "Data/917dc8bcba1c29c4c8bd325b59088d1c",
+   "size": 49310,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/917dc8bcba1c29c4c8bd325b59088d1c"
+  },
+  {
+   "compression": 8,
+   "hash": "beeb2cbd84f6b07806f2a891d30d740eaac6bcbd",
+   "pkgpath": "Data/9c9078c06443df049a2830962f9dd5ef",
+   "size": 49642,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/9c9078c06443df049a2830962f9dd5ef"
+  },
+  {
+   "compression": 8,
+   "hash": "ce783b9fce8f74d1cc58025b569f74f4fdcec7a5",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2814976,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "6c3993b2e1ca7b8a1849aeaa2d6cc3b00a9b7df4",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 34414648,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "e5ebe2c594a6e26b007ac2f5a546f296a50eefc4",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-d540d603a6c1e284\\libil2cpp.so-1ef04e193a262b75",
+   "xfrm_size": 34415406
+  },
+  {
+   "compression": 8,
+   "hash": "dc64ed4bee950e5ce1ab12268f627a3db179e4af",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 220456,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "0c006f3d4abf86f41aee41e04082538dbddbb1b3",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-d540d603a6c1e284\\AudioPluginMSASpatializer.so-17eeb5a6ada74ce1",
+   "xfrm_size": 221214
+  },
+  {
+   "compression": 8,
+   "hash": "aed32544e1ea67c511396569fcb89b586b15d839",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "715f293d231a26472ba1672c3e59f76cb0e5e364",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "bb51626b40c92b47d08fef98a1e1403d425d7eea",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-d540d603a6c1e284\\UnityMagicLeap.so-17eeb5a6ada74ce1",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "a765bb75be250a6992c1a46fc23a55501e369b85",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a0abc89593a2b38ed3906afb9de411bd7b5acadc",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-d540d603a6c1e284\\libml_camera_plugin.so-17eeb5a6ada74ce1",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "633780c922a0dbfe032638afff9a25e3fc49219f",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 38792,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "baf067821a4e9644037937ec470b7882369401ca",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-d540d603a6c1e284\\libml_mediaplayer_plugin.so-17eeb5a6ada74ce1",
+   "xfrm_size": 39550
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "3f702d40c1354f8144e5d5e69d1c8193218e5aeb",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 407276,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "5c18367ea31b7fc24b76d7da35e71558f3327fdc",
+   "pkgpath": "Data/adcae46baa3736748a69f9f489676bd7",
+   "size": 49726,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/adcae46baa3736748a69f9f489676bd7"
+  },
+  {
+   "compression": 8,
+   "hash": "e94169e04982098c15b71dea64d4bb6da942f232",
+   "pkgpath": "Data/boot.config",
+   "size": 76,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "35c22511957f597a7ac78a373441a9ad3dae8688",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 35552,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "f1f4a6cdd92f9293c9701495cc5688f969caf1d0",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 36272,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "03883b143e69df4a1b682b0393e1cd7835e46d59",
+   "pkgpath": "Data/level0",
+   "size": 5384,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "dbba8cb397cb4133152bd55cff23a9d26d4c5ad8",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 149236,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "8f59c553fa65e4c62b244f94275fdf50ef6a40e8",
+   "pkgpath": "bin/Player.elf",
+   "size": 22318968,
+   "src": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a0b807e1c4506d10e8d11574e7636abab6ac82ad",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-d540d603a6c1e284\\Player.elf-1b806ca23dc11ae3",
+   "xfrm_size": 22319726
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/ninop/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "8cfd67d6e0b9980de7273f66d48777d1bc4c0d77",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-d540d603a6c1e284\\libc++_shared.so-7d4f7750eb402d39",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "671f0b7c4364304dfc4a0924cb76284f3f4956b4",
+   "pkgpath": "manifest.xml",
+   "size": 592,
+   "src": "C:\\Users\\ninop\\Documents\\Git\\MagicLeapTestProject\\Raycasting\\Raycasting\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "6057f1f4a4a67080c040e22345acf9fcadb8369a",
+     "developer_id": "8bae1f9f-f352-4510-b63d-557f7c2e0ada"
+    }
+   },
+   "xfrm_hash": "e2ef1df6a2558218b37de2a2dd2f17ac11b5b80f",
+   "xfrm_path": "C:/Users/ninop/Documents/Git/MagicLeapTestProject/Raycasting/Raycasting/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-d540d603a6c1e284\\manifest.xml-1b806ca23dc11ae3",
+   "xfrm_size": 604
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert"
+  },
+  "taildata": {
+   "devcert": "C:\\Users\\ninop\\OneDrive\\Dokumente\\Schule\\HSLU\\BDA\\Entwicklung\\Magic Leap\\HSLU\\ir_hslu.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
