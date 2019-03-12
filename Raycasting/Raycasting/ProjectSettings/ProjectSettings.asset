@@ -655,13 +655,15 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
     m_PortalFolderPath: 
   luminCert:
-    m_CertPath: 
+    m_CertPath: C:/Users/ninop/OneDrive/Dokumente/Schule/HSLU/BDA/Entwicklung/Magic
+      Leap/HSLU/ir_hslu.cert
     m_PrivateKeyPath: 
   luminIsChannelApp: 0
   luminVersion:
