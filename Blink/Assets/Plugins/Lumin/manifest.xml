@@ -1,0 +1,17 @@
+<!--
+Certain features require a privilege to be requested in the manifest. For the scenes that use these features,
+a custom manifest is needed with the required privileges. This file lists all the ones that the examples use.
+It can be modified by adding/trimming privileges as needed for the specific example or scene.
+The custom manifest should live in the Assets/Plugins/Lumin project folder with the filename manifest.xml.
+-->
+<manifest xmlns:ml="magicleap" ml:package="Placeholder" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="4" ml:sdk_version="1.0" ml:visible_name="Placeholder">
+    <uses-privilege ml:name="GesturesSubscribe" />
+	<uses-privilege ml:name="GesturesConfig" />
+	<uses-privilege ml:name="LowLatencyLightwear" />  
+	<uses-privilege ml:name="WorldReconstruction" />  
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="Placeholder">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>

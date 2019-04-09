@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f29ebeb475e08b48918568bd8232a73, type: 3}
+  m_Name: BlinkTuning
+  m_EditorClassIdentifier: 
+  moveSpeedHead: 0.05
+  moveSpeedHand: 0.3
+  moveSpeedWander: 0.03
+  maxWanderSpeed: 0.1
+  maxHeadSpeed: 0.1
+  maxHandSpeed: 0.4
+  orbitSpeed: 30
+  orbitSpeedEyesOpen: 120
+  orbitDist: 0.5
+  orbitDeadzone: 0.1
+  opposingForceMult: 10
+  heightAboveHeadpose: 0.6
+  wanderDeadzone: 0.1
+  minWanderWait: 1
+  maxWanderWait: 5
+  minWanderDist: 0.5
+  maxWanderDist: 2
+  handToWanderDelay: 0.33
+  wanderZoneConeAngle: 60
+  wanderZoneConeResolution: 15
+  minDistBetweenWanderPoints: 0.2
+  handHoverOffset: {x: 0, y: 0.1, z: 0}
